@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "_78_subsequence",
+            "request": "launch",
+            "mainClass": "_78_subsequence",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "add2num",
+            "request": "launch",
+            "mainClass": "add2num",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "allDivisor",
+            "request": "launch",
+            "mainClass": "allDivisor",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "armstrong",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "bs",
+            "request": "launch",
+            "mainClass": "bs",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "bs_ceiling_floor",
+            "request": "launch",
+            "mainClass": "bs_ceiling_floor",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "bubble",
+            "request": "launch",
+            "mainClass": "bubble",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "bubbleRecurssion",
+            "request": "launch",
+            "mainClass": "bubbleRecurssion",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "checkDuplicate",
+            "request": "launch",
+            "mainClass": "checkDuplicate",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "cielingBS",
+            "request": "launch",
+            "mainClass": "cielingBS",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "consecutiveOnes",
+            "request": "launch",
+            "mainClass": "consecutiveOnes",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "countDigit",
+            "request": "launch",
+            "mainClass": "countDigit",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "design",
+            "request": "launch",
+            "mainClass": "design",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "floorBS",
+            "request": "launch",
+            "mainClass": "floorBS",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "gcd",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "infinite",
+            "request": "launch",
+            "mainClass": "infinite",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "insertion",
+            "request": "launch",
+            "mainClass": "insertion",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "insertionRecurssion",
+            "request": "launch",
+            "mainClass": "insertionRecurssion",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "matchingBracets",
+            "request": "launch",
+            "mainClass": "matchingBracets",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "merge",
+            "request": "launch",
+            "mainClass": "merge",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "movezeros",
+            "request": "launch",
+            "mainClass": "movezeros",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "peakOfMountain",
+            "request": "launch",
+            "mainClass": "peakOfMountain",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "quick",
+            "request": "launch",
+            "mainClass": "quick",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "recurssion",
+            "request": "launch",
+            "mainClass": "recurssion",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "reverseNum",
+            "request": "launch",
+            "mainClass": "reverseNum",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "roman",
+            "request": "launch",
+            "mainClass": "roman",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "selection",
+            "request": "launch",
+            "mainClass": "selection",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "subsequence_powset",
+            "request": "launch",
+            "mainClass": "subsequence_powset",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "twosum",
+            "request": "launch",
+            "mainClass": "twosum",
+            "projectName": "DSA practice_5f6781ab"
+        },
+        {
+            "type": "java",
+            "name": "valid_palindrome125",
+            "request": "launch",
+            "mainClass": "valid_palindrome125",
+            "projectName": "DSA practice_5f6781ab"
+        }
+    ]
+}
